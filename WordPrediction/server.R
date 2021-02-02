@@ -19,7 +19,7 @@ predictNextWord <- function(sentence, choices=NULL) {
     
     #Clean up input sentence similar to how training set was cleaned up
     #Remove numbers, punctuation, symbols
-    sentenceToken <- tokenize(tolower(sentence), removeNumbers = TRUE, removePunct = TRUE, 
+    sentenceToken <- tokenize_sentence(tolower(sentence), removeNumbers = TRUE, removePunct = TRUE, 
                               removeSeparators = TRUE, removeSymbols = TRUE, removeTwitter = TRUE, 
                               removeHyphens = TRUE, what="fasterword", simplify = TRUE)
     
