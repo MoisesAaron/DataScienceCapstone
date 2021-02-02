@@ -1,0 +1,10 @@
+name: WordPrediction
+account: ceathiel
+server: shinyapps.io
+appId: 147978
+bundleId: 663407
+url: https://ceathiel.shinyapps.io/WordPrediction/
+when: 1482999245.83424
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: BigramProb.zip|TrigramProb.zip|UnigramProb.zip
