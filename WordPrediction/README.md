@@ -3,7 +3,7 @@
 This application was developed for the Capstone Project for the Data Science Specialization in Coursera by Johns Hopkins University
 
 The shiny application is found through this link:
-https://ceathiel.shinyapps.io/WordPrediction/
+https://moy-rg.shinyapps.io/WordPrediction/
 
 #### How the word prediction is done
 
@@ -26,4 +26,4 @@ In the interest of speed, the N-gram models have been pre-processed and resultin
 6. include.md - file used to include application details in the Shiny ui
 7. tree.jpg - decision tree diagram used for the UI
 
-If you are interested in finding the code that generates the n-gram models, you can refer to https://github.com/Ceathiel/DataScienceCapstone
+If you are interested in finding the code that generates the n-gram models, you can refer to https://github.com/MoisesAaron/DataScienceCapstone
